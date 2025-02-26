@@ -1,0 +1,7 @@
+export {default as Page} from './Page/Page'
+export {default as Home} from './Home/Home'
+export {default as About} from './About/About'
+export {default as Resume} from './Resume/Resume'
+export {default as Projects} from './Projects/Projects'
+export {default as Comments} from './Comments/Comments'
+export {default as Content} from './Content/Content'
